@@ -1,0 +1,39 @@
+.heading{
+    font-family: 'Pacifico', cursive;
+    font-size: 27px;
+    width: 100%;
+    margin: 0px;
+    word-wrap: break-word;
+    white-space: nowrap;
+    overflow: hidden;
+    box-shadow: 5px 10px 15px rgb(240, 10, 163);
+}
+.note{
+    font-size: 15px;
+    color:rgb(192, 219, 36) ;
+    word-wrap: break-word;
+    white-space: nowrap;
+    overflow: hidden;
+    
+    
+}
+.c_footer{
+    position: fixed;
+    color: darkgoldenrod;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgreen;
+    line-height: 2;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px purple;
+}
+h3{
+    word-wrap: break-word;
+    white-space: nowrap;
+    overflow: hidden;
+    
+}
