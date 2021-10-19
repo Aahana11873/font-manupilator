@@ -30,8 +30,9 @@ function gotPoses(results)
 }
 function draw(){
     background('pink');
-    document.getElementById("square_side").innerHTML="width and height of the square will be "+difference+"px";
+    //document.getElementById("square_side").innerHTML="width and height of the font will be "+difference+"px";
+    textSize(difference)
 fill("green");
-Text(Aahana, 100, 70)
+text("Aahana", 100, 170)
 
 }
